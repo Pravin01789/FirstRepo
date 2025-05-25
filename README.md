@@ -1,2 +1,2 @@
 # FirstRepo
-this is good what is a
+this is good what is a good repository
